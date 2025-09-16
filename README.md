@@ -1,13 +1,13 @@
 # 💫 About Me:
-I'm building the next generation of cybersecurity tools by integrating AI-driven solutions with ethical hacking, threat intelligence, and incident response techniques. My focus lies in strengthening digital security frameworks, improving vulnerability detection, and automating defense mechanisms to stay ahead of evolving cyber threats.
+I'm building the next generation of cybersecurity tools by integrating AI-driven solutions with ethical hacking, threat intelligence, and incident response techniques. My focus lies in strengthening digital security frameworks, improving vulnerability detection, and automating defense mechanisms to stay ahead of evolving cyber threats.<br>
 
-🔍 Experienced in penetration testing, cryptography, and SIEM tools like Splunk and QRadar.
-🛠️ Worked on projects involving XSS detection, network defense, and AI-powered risk scoring systems.
-🌐 Actively researching Deep & Dark Web ecosystems to understand adversarial behavior and enhance security strategies.
-🤖 Passionate about applying machine learning in cybersecurity to create safer online environments.
-💡 Built fully functional websites using open-source AI tools and frameworks, emphasizing innovation and accessibility.
+🔍 Experienced in penetration testing, cryptography, and SIEM tools like Splunk and QRadar.<br>
+🛠️ Worked on projects involving XSS detection, network defense, and AI-powered risk scoring systems.<br>
+🌐 Actively researching Deep & Dark Web ecosystems to understand adversarial behavior and enhance security strategies.<br>
+🤖 Passionate about applying machine learning in cybersecurity to create safer online environments.<br>
+💡 Built fully functional websites using open-source AI tools and frameworks, emphasizing innovation and accessibility.<br>
 
-Let’s make cybersecurity smarter, faster, and more adaptive.  
+Let’s make cybersecurity smarter, faster, and more adaptive.  <br>
 
 
 ## 🌐 Socials:
