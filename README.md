@@ -1,11 +1,11 @@
 # 💫 About Me:
 I'm building the next generation of cybersecurity tools by integrating AI-driven solutions with ethical hacking, threat intelligence, and incident response techniques. My focus lies in strengthening digital security frameworks, improving vulnerability detection, and automating defense mechanisms to stay ahead of evolving cyber threats.<br>
 
-🔍 Experienced in penetration testing, cryptography, and SIEM tools like Splunk and QRadar.<br>
-🛠️ Worked on projects involving XSS detection, network defense, and AI-powered risk scoring systems.<br>
-🌐 Actively researching Deep & Dark Web ecosystems to understand adversarial behavior and enhance security strategies.<br>
-🤖 Passionate about applying machine learning in cybersecurity to create safer online environments.<br>
-💡 Built fully functional websites using open-source AI tools and frameworks, emphasizing innovation and accessibility.<br>
+-Experienced in penetration testing, cryptography, and SIEM tools like Splunk and QRadar.<br>
+-Worked on projects involving XSS detection, network defense, and AI-powered risk scoring systems.<br>
+-Actively researching Deep & Dark Web ecosystems to understand adversarial behavior and enhance security strategies.<br>
+-Passionate about applying machine learning in cybersecurity to create safer online environments.<br>
+-Built fully functional websites using open-source AI tools and frameworks, emphasizing innovation and accessibility.<br>
 
 Let’s make cybersecurity smarter, faster, and more adaptive.  <br>
 
@@ -16,8 +16,22 @@ Let’s make cybersecurity smarter, faster, and more adaptive.  <br>
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhawalsri77@gmail.com)
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
+# 🛡️Tech Stack:
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=plastic&logo=kalilinux&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white) 
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=plastic&logo=metasploit&logoColor=blue) 
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=plastic&logo=PortSwigger&logoColor=white) 
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=plastic&logo=security&logoColor=white) 
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=plastic&logo=owasp&logoColor=white) 
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white) 
+![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=plastic&logo=ibm&logoColor=white) 
+![Suricata](https://img.shields.io/badge/Suricata-DB3236?style=plastic&logo=suricata&logoColor=white) 
+![Wazuh](https://img.shields.io/badge/Wazuh-0E9DD9?style=plastic&logo=wazuh&logoColor=white) 
+![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=plastic&logo=snort&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MatrixEncoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatrixEncoder&theme=dark&hide_border=false)<br/>
